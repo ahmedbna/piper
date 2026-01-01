@@ -83,6 +83,9 @@ Original project:
 TTS-Models
 [https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models](https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models)
 
+Piper Voices
+[https://rhasspy.github.io/piper-samples/](https://rhasspy.github.io/piper-samples/)
+
 react-native-sherpa-onnx-offline-tts
 [https://github.com/kislay99/react-native-sherpa-onnx-offline-tts](https://github.com/kislay99/react-native-sherpa-onnx-offline-tts)
 
